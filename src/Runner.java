@@ -5,6 +5,11 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**
+ * @author Navonil Mandal
+ * @version 1.1
+ */
+
+/**
  * The Triplet class checks if a given set of numbers forms a triplet according to a specific
  * mathematical condition.
  */
